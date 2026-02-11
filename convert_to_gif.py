@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# Author: C-Kuzy
+# Description: Custom Script to Gif Converter
+
 """Convert MetLife HTML animation to GIF using Playwright and Pillow"""
 
 import time
