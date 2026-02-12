@@ -16,7 +16,7 @@
   *.css linguist-detectable=true
   *.html linguist-detectable=true
   *.js linguist-detectable=true
-  *.py linguist-detectable=false
+  *.py linguist-detectable=true
 
  "Files This Repository is Restricing:"
   *.java linguist-detectable=false
