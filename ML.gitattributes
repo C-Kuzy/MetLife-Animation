@@ -11,3 +11,43 @@
  # Applying Necessary Programming Language Ignores for the current Repository
  # Current Repository: C-Kuzy/MetLife-Banner/gitattributes
  # CURRENT ACTIVE FILE REFERENCE
+
+ "Files This Repository Wants to Detect:"
+  *.html linguist-detectable=true
+  *.js linguist-detectable=true
+  *.css linguist-detectable=true
+  *.py linguist-detectable=false
+
+ "Files This Repository is Restricing:"
+  *.java linguist-detectable=false
+  *.c linguist-detectable=false
+  *.c++ linguist-detectable=false
+  *.m linguist-detectable=false
+  *.s linguist-detectable=false
+  *.r linguist-detectable=false
+  *.go linguist-detectable=false
+  *.txt linguist-detectable=false
+  *.rtf linguist-detectable=false
+  *.msg linguist-detectable=false
+  *.xls linguist-detectable=false
+  *.ipynb linguist-detectable=false
+  *.xlsx linguist-detectable=false
+  *.pdf linguist-detectable=false
+  *.svg linguist-detectable=false
+  *.png linguist-detectable=false
+  *.jpg linguist-detectable=false
+  *.jpeg linguist-detectable=false
+  *.gif linguist-detectable=false
+  *.mp4 linguist-detectable=false
+  *.wmv linguist-detectable=false
+  *.psd linguist-detectable=false
+  *.zip linguist-detectable=false
+  *.php linguist-detectable=false
+  *.iso linguist-detectable=false
+  *.dmg linguist-detectable=false
+  *.bat linguist-detectable=false
+  *.dll linguist-detectable=false
+  *.wav linguist-detectable=false
+  *.flac linguist-detectable=false
+  *.mov linguist-detectable=false
+  *.csv linguist-detectable=false
