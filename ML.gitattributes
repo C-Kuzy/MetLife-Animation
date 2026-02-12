@@ -13,9 +13,9 @@
  # CURRENT ACTIVE FILE REFERENCE
 
  "Files This Repository Wants to Detect:"
+  *.css linguist-detectable=true
   *.html linguist-detectable=true
   *.js linguist-detectable=true
-  *.css linguist-detectable=true
   *.py linguist-detectable=false
 
  "Files This Repository is Restricing:"
