@@ -46,7 +46,7 @@ def create_gif():
             screenshot = page.screenshot(type='png')
             img = Image.open(io.BytesIO(screenshot))
             
-            # Ensure exact dimensions
+            # Ensure exact dimensions of the window
             if img.size != (width, height):
                 img = img.crop((0, 0, width, height))
             
