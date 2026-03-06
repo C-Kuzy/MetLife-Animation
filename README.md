@@ -1,4 +1,4 @@
-# MetLife Animation Banner Display (LinkedIn)
+# MetLife Animation Post Display (LinkedIn)
 
 An animated HTML banner generator for MetLife job offer announcements, featuring interactive particle effects and automated GIF conversion.
 
