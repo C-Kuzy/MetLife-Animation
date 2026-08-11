@@ -171,7 +171,7 @@ body {
 .hashtag {
     position: absolute;
     bottom: 60px;
-    right: 247px;  /*Original: 377px*/
+    right: 275px;  /*Original: 377px*/
     font-family: 'IBM Plex Sans', sans-serif;
     font-size: 45px;
     font-weight: 700;
