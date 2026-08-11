@@ -7,9 +7,9 @@ class ParticleBackground {
         this.connectionDistance = 150;
         this.mousePosition = { x: null, y: null };
         this.colors = [
-            'rgba(0, 163, 224, 0.8)',
-            'rgba(122, 184, 0, 0.8)',
-            'rgba(255, 255, 255, 0.7)'
+            'rgba(73, 176, 218, 0.8)',
+            'rgba(108, 231, 148, 0.8)',
+            'rgba(0, 54, 83, 0.7)'
         ];
         
         this.init();

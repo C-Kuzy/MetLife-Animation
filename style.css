@@ -15,7 +15,7 @@ body {
     width: 100%;
     height: 100%;
     position: relative;
-    background: #000000; /*Main Color: #002F6C*/
+    background: #ffffff; /*Main Color: #002F6C*/
     overflow: hidden;
 }
 
@@ -38,12 +38,12 @@ body {
 .bg-shape-green {
     position: absolute;
     top: -20%;
-    right: -8.5%;
+    right: -10%;
     width: 60%;
     height: 120%;
-    background: #7AB800;
+    background: #68dd95;
     transform: rotate(25deg) translateX(100%);
-    animation: slideIn 7.45s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+    animation: slideIn 7.45s cubic-bezier(0.26, 0.46, 0.45, 0.94) forwards;
     transform-origin: top right;
     z-index: 2;
 }
@@ -54,7 +54,7 @@ body {
     right: 0;
     width: 52%;
     height: 80%;
-    background: #00A3E0;
+    background: #61c4e1;
     transform: rotate(25deg) translateX(100%);
     animation: slideIn 7.45s 2.45s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
     transform-origin: bottom right;
@@ -94,7 +94,7 @@ body {
 .logo {
     position: absolute;
     top: 50px;
-    left: 90px;
+    left: 85px;
     display: flex;
     align-items: center;
     gap: 15px;
@@ -112,7 +112,7 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
     font-size: 55px;
     font-weight: 700;
-    color: white;
+    color: #003653;
     letter-spacing: -0.5px;
 }
 
@@ -123,7 +123,7 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
     font-size: 55px;
     font-weight: 700;
-    color: white;
+    color: #003653;
     letter-spacing: 0.5px;
     opacity: 0;
     animation: fadeInUp 9.5s 2.45s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
@@ -144,7 +144,7 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
     font-size: 95px;
     font-weight: 900;
-    color: white;
+    color: #003653;
     line-height: 1.15;
     letter-spacing: -2px;
     margin: 0;
@@ -175,7 +175,7 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
     font-size: 45px;
     font-weight: 700;
-    color: white;
+    color: #003653;
     opacity: 0;
     animation: fadeInUp 10.75s 3.95s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards, ease-in-out infinite;
     z-index: 10;
